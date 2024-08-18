@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MainMod", "BepinexModPluginSupportExample\MainMod.csproj", "{626184AA-D0C0-4067-96D5-0211370D3838}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PluginExample", "PluginExample\PluginExample.csproj", "{34F79AB4-B5A1-4B49-9EB2-25FA18253E01}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{626184AA-D0C0-4067-96D5-0211370D3838}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{626184AA-D0C0-4067-96D5-0211370D3838}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{626184AA-D0C0-4067-96D5-0211370D3838}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{626184AA-D0C0-4067-96D5-0211370D3838}.Release|Any CPU.Build.0 = Release|Any CPU
+		{34F79AB4-B5A1-4B49-9EB2-25FA18253E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{34F79AB4-B5A1-4B49-9EB2-25FA18253E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{34F79AB4-B5A1-4B49-9EB2-25FA18253E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{34F79AB4-B5A1-4B49-9EB2-25FA18253E01}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {85FBFCC1-53CB-4AE3-B1CD-0ED174AD1CAB}
+	EndGlobalSection
+EndGlobal

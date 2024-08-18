@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hilbe\\source\\repos\\BepinexModPluginSupportExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{34F79AB4-B5A1-4B49-9EB2-25FA18253E01}|PluginExample\\PluginExample.csproj|c:\\users\\hilbe\\source\\repos\\bepinexmodpluginsupportexample\\pluginexample\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{34F79AB4-B5A1-4B49-9EB2-25FA18253E01}|PluginExample\\PluginExample.csproj|solutionrelative:pluginexample\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626184AA-D0C0-4067-96D5-0211370D3838}|BepinexModPluginSupportExample\\MainMod.csproj|c:\\users\\hilbe\\source\\repos\\bepinexmodpluginsupportexample\\bepinexmodpluginsupportexample\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626184AA-D0C0-4067-96D5-0211370D3838}|BepinexModPluginSupportExample\\MainMod.csproj|solutionrelative:bepinexmodpluginsupportexample\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626184AA-D0C0-4067-96D5-0211370D3838}|BepinexModPluginSupportExample\\MainMod.csproj|c:\\users\\hilbe\\source\\repos\\bepinexmodpluginsupportexample\\bepinexmodpluginsupportexample\\pluginstuff\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626184AA-D0C0-4067-96D5-0211370D3838}|BepinexModPluginSupportExample\\MainMod.csproj|solutionrelative:bepinexmodpluginsupportexample\\pluginstuff\\plugin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{626184AA-D0C0-4067-96D5-0211370D3838}|BepinexModPluginSupportExample\\MainMod.csproj|c:\\users\\hilbe\\source\\repos\\bepinexmodpluginsupportexample\\bepinexmodpluginsupportexample\\pluginstuff\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{626184AA-D0C0-4067-96D5-0211370D3838}|BepinexModPluginSupportExample\\MainMod.csproj|solutionrelative:bepinexmodpluginsupportexample\\pluginstuff\\module.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Module.cs",
+              "DocumentMoniker": "C:\\Users\\hilbe\\source\\repos\\BepinexModPluginSupportExample\\BepinexModPluginSupportExample\\PluginStuff\\Module.cs",
+              "RelativeDocumentMoniker": "BepinexModPluginSupportExample\\PluginStuff\\Module.cs",
+              "ToolTip": "C:\\Users\\hilbe\\source\\repos\\BepinexModPluginSupportExample\\BepinexModPluginSupportExample\\PluginStuff\\Module.cs",
+              "RelativeToolTip": "BepinexModPluginSupportExample\\PluginStuff\\Module.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:27:48.918Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hilbe\\source\\repos\\BepinexModPluginSupportExample\\BepinexModPluginSupportExample\\Class1.cs",
+              "RelativeDocumentMoniker": "BepinexModPluginSupportExample\\Class1.cs",
+              "ToolTip": "C:\\Users\\hilbe\\source\\repos\\BepinexModPluginSupportExample\\BepinexModPluginSupportExample\\Class1.cs",
+              "RelativeToolTip": "BepinexModPluginSupportExample\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:26:36.011Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\hilbe\\source\\repos\\BepinexModPluginSupportExample\\PluginExample\\Class1.cs",
+              "RelativeDocumentMoniker": "PluginExample\\Class1.cs",
+              "ToolTip": "C:\\Users\\hilbe\\source\\repos\\BepinexModPluginSupportExample\\PluginExample\\Class1.cs",
+              "RelativeToolTip": "PluginExample\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAABOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T15:07:47.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Plugin.cs",
+              "DocumentMoniker": "C:\\Users\\hilbe\\source\\repos\\BepinexModPluginSupportExample\\BepinexModPluginSupportExample\\PluginStuff\\Plugin.cs",
+              "RelativeDocumentMoniker": "BepinexModPluginSupportExample\\PluginStuff\\Plugin.cs",
+              "ToolTip": "C:\\Users\\hilbe\\source\\repos\\BepinexModPluginSupportExample\\BepinexModPluginSupportExample\\PluginStuff\\Plugin.cs",
+              "RelativeToolTip": "BepinexModPluginSupportExample\\PluginStuff\\Plugin.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-18T14:27:11.999Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
